@@ -38,6 +38,10 @@ https://fryrvos.github.io/page/public/maintenance
 https://fryrvos.github.io/page/public/unknownHost
 ```
 
+```bash
+https://fryrvos.github.io/page/public/staging
+```
+
 ### License
 MIT License 
 
