@@ -15,6 +15,28 @@ Source code for Fryrvo Static Page templates
 - `public/` - production page
 - `internal/` - no your are not been sneaky and found somethings it just silly version of the page 
 
+### URL path
+page end point to to point to (if that make any sence) 
+
+```bash
+https://fryrvos.github.io/page/public/404
+```
+
+```bash
+https://fryrvos.github.io/page/public/502
+```
+
+```bash
+https://fryrvos.github.io/page/public/503
+```
+
+```bash
+https://fryrvos.github.io/page/public/maintenance
+```
+
+```bash
+https://fryrvos.github.io/page/public/unknownHost
+```
 
 ### License
 MIT License 
