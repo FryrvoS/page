@@ -14,6 +14,7 @@ Source code for Fryrvo Static Page templates
 ### Directory
 - `public/` - production page
 - `internal/` - no your are not been sneaky and found somethings it just silly version of the page 
+- `custom/` - custom branding version of the page 
 
 ### URL path
 page end point to to point to (if that make any sence) 
